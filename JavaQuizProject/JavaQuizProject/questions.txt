@@ -1,0 +1,5 @@
+What does AWT stand for?;Abstract Window Toolkit;Apple Windowing Toolkit;Absolute Wicket Tool;0
+Which class is used to create a thread?;Thread;Runnable;Executor;0
+Which package is compulsory for this project?;java.util;java.swing;java.package;2
+What layout manager switches panels?;CardLayout;BorderLayout;FlowLayout;0
+How do you make a thread sleep?;Thread.sleep();Thread.wait();Thread.nap();0
